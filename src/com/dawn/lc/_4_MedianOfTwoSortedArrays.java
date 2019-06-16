@@ -33,7 +33,6 @@ public class _4_MedianOfTwoSortedArrays {
 				if ((nums2.length & 1) == 0) {
 					return (double) (nums2[nums2.length / 2] + nums2[nums2.length / 2 - 1]) / 2;
 				} else {
-					if (nums2.length == 1) return (double) nums2[0];
 					return (double) nums2[nums2.length / 2];
 				}
 			}

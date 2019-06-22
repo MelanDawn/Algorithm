@@ -1,6 +1,6 @@
 package com.dawn.lc;
 
-public class _h_71_Search_A_2D_Matrix {
+public class _h_74_Search_A_2D_Matrix {
 
 	public static void main(String[] args) {
 		int[][] t0 = null;
